@@ -1,2 +1,2 @@
 # codefights
-Problems found in code fights.
+Coding problems to solve in code fights.
